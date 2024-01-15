@@ -1,0 +1,1 @@
+self.__NEXT_FONT_MANIFEST="{\"pages\":{},\"app\":{\"/Users/admin/next-test/next-test/app/(dashboard)/layout\":[\"static/media/c9a5bc6a7c948fb0-s.p.woff2\"],\"/Users/admin/next-test/next-test/app/(dashboard)/(pages)/dashboards/dashboard/page\":[\"static/media/c9a5bc6a7c948fb0-s.p.woff2\"]},\"appUsingSizeAdjust\":true,\"pagesUsingSizeAdjust\":false}"
